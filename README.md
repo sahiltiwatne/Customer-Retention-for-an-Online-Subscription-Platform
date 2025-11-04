@@ -7,8 +7,13 @@ Business outcomes you’ll deliver: cohort retention dashboard, LTV & CAC estima
 Key deliverables:
 
 Raw data ingestion + cleaned dataset (users, events, subscriptions, payments)
+
 Cohort & retention analysis (monthly & weekly)
+
 Segmentation (RFM + behavioral)
+
 Churn prediction model (logistic regression / tree-based)
+
 Dashboard (Power BI / Tableau) + 6-slide executive deck with recommendations
+
 GitHub repo with notebooks, SQL, dashboards, README, and a 3–5 minute Loom walkthrough
